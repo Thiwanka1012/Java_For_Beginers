@@ -14,5 +14,7 @@ public class Task1_Find_Digits {
             digits++;
         }
         System.out.println("Digit Count is-"+digits);
+
+        System.out.println("------------------------------------------");
     }
 }
