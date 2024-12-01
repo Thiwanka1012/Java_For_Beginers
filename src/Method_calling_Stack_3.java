@@ -4,6 +4,7 @@ public class Method_calling_Stack_3 {
         int x=100;
         System.out.println("Start main method");
         print();
+        System.out.println(x);
         System.out.println("End main method");
     }
 
